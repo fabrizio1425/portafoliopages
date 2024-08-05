@@ -1,2 +1,0 @@
-# portafoliopages
-github pages
